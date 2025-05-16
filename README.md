@@ -9,16 +9,18 @@ Helpful resources :
 
 ### Master the Fundamentals (Without Theory Overload)
 
+Project: [Sales Data Analysis](https://github.com/somwas/sales-data-analysis)
+
 🔹 Focus Areas:
-- Revise the basics of Python through scripting.
-- Revise how to build and call simple APIs using Python.
+- [x] Revise the basics of Python through scripting.
+- [x] Revise how to build and call simple APIs using Python.
 
 🔹 Tools & Concepts to Start With:
-- Python scripting
-- Web scraping
-- NumPy (arrays, operations)
-- Pandas (data manipulation)
-- Matplotlib (basic visualizations)
+- [x] Python scripting
+- [x] Web scraping
+- [x] NumPy (arrays, operations)
+- [x] Pandas (data manipulation)
+- [x] Matplotlib (basic visualizations)
 
 ### SQL and Data Handling Skills
 
