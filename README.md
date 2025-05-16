@@ -3,6 +3,10 @@
 Like everyone entering AI, I'm brushing up my basics and building real projects along the way.  
 I’ll update this repo regularly with what I’m learning, projects, and tools I'm experimenting with.
 
+Helpful resources :
+- [Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline)
+
+
 ### Master the Fundamentals (Without Theory Overload)
 
 🔹 Focus Areas:
