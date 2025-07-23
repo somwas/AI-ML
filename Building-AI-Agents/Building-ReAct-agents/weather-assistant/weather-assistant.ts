@@ -17,7 +17,7 @@ const getWeather = tool(
 );
 
 const llm = await initChatModel('gpt-3.5-turbo', {
-    openAIApiKey: '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',
+    openAIApiKey: 'YOUR_OPENAI_API_KEY',
 });
 
 const agent = await createReactAgent({
